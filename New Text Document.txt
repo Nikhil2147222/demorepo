@@ -1,0 +1,20 @@
+[02:37 pm] R, Harish
+https://selfservice.cerner.com for Account activation and password change
+https://mfaportal.cerner.com for DUO Activation
+https://teams.microsoft.com for teams web version
+https://portal.office365.com for web email
+https://desktops.cerner.com VDI(Cloud Desktop Access)
+
+https://portal.office.com/
+
+
+Error Code: 53000 
+Request Id: fe94b0b6-65be-4036-8acc-2e1205483e02 
+Correlation Id: 0671654e-0272-4e59-9af2-e157e66816f9 
+Timestamp: 2023-01-09T11:03:57.769Z 
+App name: Microsoft Office
+App id: d3590ed6-52b3-4102-aeff-aad2292ab01c
+IP address: 159.140.252.102
+Device identifier: 2b8329f5-484d-4375-a049-74546a06e559
+Device platform: Windows 10
+Device state: DomainJoined
